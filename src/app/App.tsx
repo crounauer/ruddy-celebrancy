@@ -30,7 +30,8 @@ export default function App() {
         <div className="mt-10 border-t border-[#e9dfd3] pt-8 text-center text-sm text-[#5f514a]">
           <p className="mb-2 tracking-[0.14em] text-[#b98a43] uppercase">Independent Celebrant</p>
           <p>Aberdeenshire, Scotland</p>
-          <p className="mt-3">hello@jacquelineruddy.co.uk</p>
+          <p className="mt-3">info@ruddycelebrancy.com</p>
+          <p className="mt-2">07507022024</p>
         </div>
       </div>
     </main>
